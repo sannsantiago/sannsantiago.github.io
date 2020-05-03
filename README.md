@@ -4,7 +4,8 @@
 
 ## Preview
 
-[![Resume Preview](https://sannsantiago.github.io/img/screenshot.png)
+[![Resume Preview](https://sannsantiago.github.io/img/screenshot.png)](https://sannsantiago.github.io/)
+
 
 **[View Live Preview](https://sannsantiago.github.io/)**
 
